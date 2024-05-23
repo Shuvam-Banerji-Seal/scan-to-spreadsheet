@@ -15,7 +15,7 @@ QRScannerApp is a simple desktop application built using Python's Tkinter librar
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/QRScannerApp.git
+    git clone https://github.com/Shuvam-Banerji-Seal/scan-to-spreadsheet.git
     cd QRScannerApp
     ```
 
@@ -39,7 +39,7 @@ For convenience, an executable file named `scan.exe` is also provided. You can u
 
 1. **Download the executable file**:
 
-    Download `scan.exe` from the [releases page](https://github.com/yourusername/QRScannerApp/releases).
+    Download `scan.exe` from the .
 
 2. **Run the application**:
 
