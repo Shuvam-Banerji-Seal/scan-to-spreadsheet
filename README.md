@@ -33,17 +33,6 @@ QRScannerApp is a simple desktop application built using Python's Tkinter librar
     python qr_scanner_app.py
     ```
 
-### Using the Executable File
-
-For convenience, an executable file named `scan.exe` is also provided. You can use the application without needing to install Python or any dependencies.
-
-1. **Download the executable file**:
-
-    Download `scan.exe` from the .
-
-2. **Run the application**:
-
-    Double-click on `scan.exe` to start the application.
 
 ## Usage
 
